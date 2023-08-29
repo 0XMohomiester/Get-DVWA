@@ -8,13 +8,13 @@ The Get-DVWA Script is a convenient tool that automates the process of setting u
 2. Clone this repository to your machine.
 3. Run the installation script, and it will guide you through the setup process.
 
-   ```
-    sudo apt-get install git
-    sudo git clone https://github.com/0XMohomiester/Get-DVWA
-    cd Get-DVWA
-    chmod +x install.sh
-    sudo ./install.sh
-   ```
+```
+sudo apt-get install git
+sudo git clone https://github.com/0XMohomiester/Get-DVWA
+cd Get-DVWA
+chmod +x install.sh
+sudo ./install.sh
+```
 
 ## Tested Operating Systems
 + Ubuntu Server 23 (recommended)
