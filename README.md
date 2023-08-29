@@ -16,3 +16,6 @@ The DVWA Installation Script is a convenient tool that automates the process of 
     sudo ./install.sh
    ```
 ## Tested Operating Systems
++ Ubuntu Server 23
++ Ubuntu Server 20
++ Debian 11
