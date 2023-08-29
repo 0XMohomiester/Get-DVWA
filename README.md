@@ -14,7 +14,7 @@ The Get-DVWA Script is a convenient tool that automates the process of setting u
 sudo apt-get install git
 sudo git clone https://github.com/0XMohomiester/Get-DVWA
 cd Get-DVWA
-chmod +x install.sh
+sudo chmod +x install.sh
 sudo ./install.sh
 ```
 
