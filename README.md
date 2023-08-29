@@ -1,3 +1,5 @@
+![img](imgs/Screen%20Shot%202023-08-30%20at%2012.22.46%20AM.png)
+
 # Get-DVWA
 
 The Get-DVWA Script is a convenient tool that automates the process of setting up the latest version of Damn Vulnerable Web Application (DVWA) on your system. DVWA is a web application intentionally designed with vulnerabilities to help security professionals and enthusiasts learn about web security concepts in a controlled environment.
