@@ -34,5 +34,3 @@ This installation script is designed for educational and learning purposes only,
 
 ## Contact 
 [0XMohomiester](https://www.linkedin.com/in/0xmohomiester/)
-=======
->>>>>>> 2efe8db89baf203581dd98d6edc39785e4715732
