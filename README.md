@@ -14,7 +14,7 @@ The Get-DVWA Script is a convenient tool that automates the process of setting u
 sudo apt-get install git
 sudo git clone https://github.com/0XMohomiester/Get-DVWA
 cd Get-DVWA
-chmod +x install.sh
+sudo chmod +x install.sh
 sudo ./install.sh
 ```
 
@@ -30,6 +30,9 @@ admin:password
 
 ## Disclaimer
 This installation script is designed for educational and learning purposes only, Do not install DVWA on a machine connected to an untrusted network or in a production environment. DVWA's vulnerabilities can be exploited, and installing it in an insecure environment can lead to unauthorized access and security breaches.
+<<<<<<< HEAD
 
 ## Contact 
 [0XMohomiester](https://www.linkedin.com/in/0xmohomiester/)
+=======
+>>>>>>> 2efe8db89baf203581dd98d6edc39785e4715732
