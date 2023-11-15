@@ -9,7 +9,7 @@ from termcolor import *
 
 # Notes about ubuntu Installlation:
 #   1) libraries installed using : sudo apt install python3-pyfiglet,   sudo apt install python3-pymysql,  sudo apt install python3-termcolor
-#   if necessary: In config file this line must be : $_DVWA[ 'db_server' ]   = getenv('DB_SERVER') ?: 'localhost'; 
+#   2) if necessary: In config file this line must be : $_DVWA[ 'db_server' ]   = getenv('DB_SERVER') ?: 'localhost'; 
 
 
 # Printing Banner
